@@ -1,0 +1,2 @@
+Hello I m text.txt
+Appended using appendFileAppended using appendFile
